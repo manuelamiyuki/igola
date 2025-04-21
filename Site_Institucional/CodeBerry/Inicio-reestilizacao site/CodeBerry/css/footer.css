@@ -1,0 +1,17 @@
+
+    .footer {
+      background-color: #216c3c;
+      height: var(--tamanho-footer);
+      color: white;
+      display: flex;
+      font-size: 15px;
+    }
+  
+    .footer .container {
+      justify-content: center;
+      text-align: center;
+    }
+  
+    .version {
+      font-size: 12px;
+    }
